@@ -3,7 +3,7 @@
 
 # SCREENSHOT 
 
-![alt text](https://github.com/sauravtom/Binary_Android-Live-Wallpaper/blob/master/1.png "Logo Title Text 1")
+![alt text](https://raw.github.com/sauravtom/Binary_Android-Live-Wallpaper/master/1.png "Logo Title Text 1")
 
 
 

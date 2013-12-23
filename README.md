@@ -1,3 +1,3 @@
-+ My first time creating a android live wallpaper
-+ Using canvas to draw a dominos animation
-+ can be used as a template for creating live wallpapers
++ Live wallpaper which displays a grid of 0s and 1s 
++ Complexity O(n)
+

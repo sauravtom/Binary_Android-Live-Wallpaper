@@ -5,4 +5,5 @@
 # TODO
 + Fix wallpaper settings activity
 + Modify logos and display string
++ Add nice gradient semi transparent over the grid
 + Publish to play store

@@ -1,5 +1,5 @@
 + Live wallpaper which displays a grid of 0s and 1s 
-+ Complexity O(n)
++ A fork of the [Dominos wallpaper repo](https://github.com/sauravtom/Dominos-Android-Live-Wallpaper)
 
 # SCREENSHOT 
 
